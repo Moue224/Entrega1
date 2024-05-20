@@ -1,0 +1,12 @@
+jupyter
+pandas
+sqlalchemy<2.0
+pymysql
+seaborn
+pillow
+time
+re
+pathlib
+matplotlib
+collections
+wordcloud
